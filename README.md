@@ -9,6 +9,5 @@ Socials:
 - [Discord:](https://discordapp.com/users/691999880377401383) ID: silverstone#6154
 
 
+[Hire Me on upwork](https://www.upwork.com/freelancers/~01c6a814765c0300bf){: .btn}
 
-
-[Button url="https://www.upwork.com/freelancers/~01c6a814765c0300bf"](Hire Me on upwork)
