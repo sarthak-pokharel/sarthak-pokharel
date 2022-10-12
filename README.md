@@ -9,7 +9,5 @@ Socials:
 - [Discord:](https://discordapp.com/users/691999880377401383) ID: silverstone#6154
 
 
-<a href="https://www.upwork.com/freelancers/~01c6a814765c0300bf">
-<button>Hire me</button>
-</a>
+[<img src="https://raw.githubusercontent.com/sarthak-pokharel/sarthak-pokharel/master/public/hireMeButton-1.png" width="25"/>](https://www.upwork.com/freelancers/~01c6a814765c0300bf)
 
